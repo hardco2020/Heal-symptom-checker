@@ -1,4 +1,9 @@
 
+![image](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
 # Heal
 
 In this COVID time, it was difficult for people to go to doctors every time. What if, if people can check themselves by using an app at their home? So they won't have to visit a doctor every time they have minor symptoms and we tried to solve this problem by creating an app named HEAL.
